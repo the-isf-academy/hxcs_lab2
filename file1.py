@@ -4,7 +4,7 @@
 # ⏪ Review: Variables 
 
 
-# 💻 Change lines 25 and 26 to ask for user input 
+# 💻 Change lines 15 and 16 to ask for user input 
 
 # 💻 Test your file by re-running it
 # ////////////////////////////////////////////
